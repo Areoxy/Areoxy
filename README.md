@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Areo
-- 💻 Programming languages I'm working with C#/Python/
-- 👀 I’m interested in programming applications for win10/11 and stuff like discord bots
-- 🔗 Discord https://discord.gg/pRr9T4HMCM
+- 💻 I'm mainly programming in Python and C#
+- 👀 I’m interested in programming applications for win10/11 and stuff like chat bots
+- 🔗 Discord 
 
 <!---
 Areoxy/Areoxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
