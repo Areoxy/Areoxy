@@ -1,7 +1,9 @@
-- 👋 Hey, I’m Areo
-- 💻 I'm mainly programming in Python and C#
-- 👀 I’m interested in programming applications for win10/11 and stuff like chat bots
-- 🔗 Discord https://discord.gg/hwtXqdvVa3
+Experienced Developer from Germany.
+
+Working with C#, Python and JavaScript
+
+Join my [Discord](https://discord.gg/hwtXqdvVa3)
+
 
 <!---
 Areoxy/Areoxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
